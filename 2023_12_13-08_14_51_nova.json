@@ -1,0 +1,144 @@
+{
+    "created_at": 1702426491.446098,
+    "webui": {
+        "remote": "https://github.com/camenduru/stable-diffusion-webui",
+        "commit_hash": "4afaaf8a020c1df457bcf7250cb1c7f609699fa7",
+        "commit_date": 1699030214,
+        "branch": "v2.6"
+    },
+    "extensions": {
+        "batchlinks-webui": {
+            "name": "batchlinks-webui",
+            "path": "/home/xlab-app-center/stable-diffusion-webui/extensions/batchlinks-webui",
+            "enabled": true,
+            "is_builtin": false,
+            "remote": "https://github.com/etherealxx/batchlinks-webui",
+            "commit_hash": "d44bbb5e2a043f2eed80c3945c0f2c676e41d0e5",
+            "commit_date": 1683116614,
+            "branch": "main",
+            "have_info_from_repo": true
+        },
+        "sd-webui-animatediff": {
+            "name": "sd-webui-animatediff",
+            "path": "/home/xlab-app-center/stable-diffusion-webui/extensions/sd-webui-animatediff",
+            "enabled": true,
+            "is_builtin": false,
+            "remote": "https://github.com/continue-revolution/sd-webui-animatediff",
+            "commit_hash": "ca9819779ba0a2659c5bcbec709c8eeabc677f08",
+            "commit_date": 1701757956,
+            "branch": "master",
+            "have_info_from_repo": true
+        },
+        "sd-webui-controlnet": {
+            "name": "sd-webui-controlnet",
+            "path": "/home/xlab-app-center/stable-diffusion-webui/extensions/sd-webui-controlnet",
+            "enabled": true,
+            "is_builtin": false,
+            "remote": "https://github.com/Mikubill/sd-webui-controlnet",
+            "commit_hash": "0d0841671ef165d6d408f7b9cd6bfb1dda3d78cf",
+            "commit_date": 1702240788,
+            "branch": "main",
+            "have_info_from_repo": true
+        },
+        "sd-webui-infinite-image-browsing": {
+            "name": "sd-webui-infinite-image-browsing",
+            "path": "/home/xlab-app-center/stable-diffusion-webui/extensions/sd-webui-infinite-image-browsing",
+            "enabled": true,
+            "is_builtin": false,
+            "remote": "https://github.com/zanllp/sd-webui-infinite-image-browsing",
+            "commit_hash": "1855e0a60fd034edaa9a9feb8268974161720a1c",
+            "commit_date": 1702225597,
+            "branch": "main",
+            "have_info_from_repo": true
+        },
+        "LDSR": {
+            "name": "LDSR",
+            "path": "/home/xlab-app-center/stable-diffusion-webui/extensions-builtin/LDSR",
+            "enabled": true,
+            "is_builtin": true,
+            "remote": null,
+            "commit_hash": "",
+            "commit_date": null,
+            "branch": null,
+            "have_info_from_repo": false
+        },
+        "Lora": {
+            "name": "Lora",
+            "path": "/home/xlab-app-center/stable-diffusion-webui/extensions-builtin/Lora",
+            "enabled": true,
+            "is_builtin": true,
+            "remote": null,
+            "commit_hash": "",
+            "commit_date": null,
+            "branch": null,
+            "have_info_from_repo": false
+        },
+        "ScuNET": {
+            "name": "ScuNET",
+            "path": "/home/xlab-app-center/stable-diffusion-webui/extensions-builtin/ScuNET",
+            "enabled": true,
+            "is_builtin": true,
+            "remote": null,
+            "commit_hash": "",
+            "commit_date": null,
+            "branch": null,
+            "have_info_from_repo": false
+        },
+        "SwinIR": {
+            "name": "SwinIR",
+            "path": "/home/xlab-app-center/stable-diffusion-webui/extensions-builtin/SwinIR",
+            "enabled": true,
+            "is_builtin": true,
+            "remote": null,
+            "commit_hash": "",
+            "commit_date": null,
+            "branch": null,
+            "have_info_from_repo": false
+        },
+        "canvas-zoom-and-pan": {
+            "name": "canvas-zoom-and-pan",
+            "path": "/home/xlab-app-center/stable-diffusion-webui/extensions-builtin/canvas-zoom-and-pan",
+            "enabled": true,
+            "is_builtin": true,
+            "remote": null,
+            "commit_hash": "",
+            "commit_date": null,
+            "branch": null,
+            "have_info_from_repo": false
+        },
+        "extra-options-section": {
+            "name": "extra-options-section",
+            "path": "/home/xlab-app-center/stable-diffusion-webui/extensions-builtin/extra-options-section",
+            "enabled": true,
+            "is_builtin": true,
+            "remote": null,
+            "commit_hash": "",
+            "commit_date": null,
+            "branch": null,
+            "have_info_from_repo": false
+        },
+        "mobile": {
+            "name": "mobile",
+            "path": "/home/xlab-app-center/stable-diffusion-webui/extensions-builtin/mobile",
+            "enabled": true,
+            "is_builtin": true,
+            "remote": null,
+            "commit_hash": "",
+            "commit_date": null,
+            "branch": null,
+            "have_info_from_repo": false
+        },
+        "prompt-bracket-checker": {
+            "name": "prompt-bracket-checker",
+            "path": "/home/xlab-app-center/stable-diffusion-webui/extensions-builtin/prompt-bracket-checker",
+            "enabled": true,
+            "is_builtin": true,
+            "remote": null,
+            "commit_hash": "",
+            "commit_date": null,
+            "branch": null,
+            "have_info_from_repo": false
+        }
+    },
+    "name": "nova"
+}
